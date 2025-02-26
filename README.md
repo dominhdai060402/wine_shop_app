@@ -48,3 +48,12 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## chú ý 
+## git init
+## git remote add origin https://github.com/dominhdai060402/wine_shop_app.git
+## git add .
+## git commit -m "update"
+## git branch -m main
+## git push -u origin main
